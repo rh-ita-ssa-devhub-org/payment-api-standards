@@ -1,0 +1,9 @@
+site_name: Payment API Standards
+site_description: Mandatory API architecture standards for all payment-domain APIs at Parasol Insurance
+
+nav:
+  - Home: index.md
+  - Payment API Architecture Standard: payment-api-standard.md
+
+plugins:
+  - techdocs-core

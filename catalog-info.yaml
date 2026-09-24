@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: payment-api-standards
+  description: Mandatory API architecture standards for all payment-domain APIs at Parasol Insurance
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - payments
+    - api-standards
+    - bian
+    - architecture
+spec:
+  type: documentation
+  lifecycle: production
+  owner: group:default/billing-payments-engineering
