@@ -13,4 +13,4 @@ metadata:
 spec:
   type: documentation
   lifecycle: production
-  owner: group:default/user1
+  owner: user:default/user1
