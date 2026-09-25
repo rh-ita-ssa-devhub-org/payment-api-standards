@@ -13,4 +13,4 @@ metadata:
 spec:
   type: documentation
   lifecycle: production
-  owner: group:default/billing-payments-engineering
+  owner: group:default/user1
